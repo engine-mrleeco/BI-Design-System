@@ -1,0 +1,1 @@
+# Placeholder for examples/black-white-visuals.md

@@ -1,0 +1,1 @@
+# Placeholder for guidelines/accessibility.md
